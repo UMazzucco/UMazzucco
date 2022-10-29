@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Uriel
+#### Soy Data Scientist Jr.
+![Soy Data Scientist Jr.](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-<!--
-**UMazzucco/UMazzucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recientemente desempeñé el rol de Ingeniero de Datos para un proyecto de análisis de reseñas y realización de un modelo de recomendaciones para E-Commerce, que integró herramientas de Big Data y Cloud Computing (GCS)
 
-Here are some ideas to get you started:
+Habilidades: Python / Pandas / MySQL / Spark / PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UMazzucco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uriel-mazzucco-887459237/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UMazzucco)](https://github.com/anuraghazra/github-readme-stats)
