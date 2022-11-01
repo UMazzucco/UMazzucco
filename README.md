@@ -2,7 +2,7 @@
 #### Soy Data Scientist Jr.
 ![Soy Data Scientist Jr.](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-Recientemente desempeñé el rol de Ingeniero de Datos en un proyecto de análisis de reseñas y realización de un modelo de recomendaciones para E-Commerce, que integró herramientas de Big Data y Cloud Computing (GCS)
+Recientemente desempeñé el rol de Ingeniero de Datos en un proyecto de análisis de reseñas y realización de un modelo de recomendaciones para E-Commerce, que integró herramientas de Big Data y Cloud Computing (GCP)
 
 Habilidades: Python / Pandas / MySQL / Spark / PowerBI
 
