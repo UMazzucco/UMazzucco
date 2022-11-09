@@ -1,10 +1,10 @@
-### Hola 👋, Mi nombre es Uriel
-#### Soy Data Scientist Jr.
+### Hi 👋, My name is Uriel
+#### I'm a Jr Data Scientist.
 ![Soy Data Scientist Jr.](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-Recientemente desempeñé el rol de Ingeniero de Datos en un proyecto de análisis de reseñas y realización de un modelo de recomendaciones para E-Commerce, que integró herramientas de Big Data y Cloud Computing (GCP)
+Recently played as a Data Engineer in an academic project, where we processed and analyzed morde than 30 million Amazon reviews and developed a recomendation algorythm.
 
-Habilidades: Python / Pandas / MySQL / Spark / PowerBI
+Skills: Python / Pandas / MySQL / Spark / PowerBI
 
 
 
