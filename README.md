@@ -4,7 +4,7 @@
 ## Trabajo en...
 Actualmente me desempeño como Desarrollador Qlik / Ingeniero de Datos, haciendo modelado de datos y reingeniería en el marco de una migración de sistema central de datos para una empresa del rubro financiero.\
 <img src='https://user-images.githubusercontent.com/103452945/235469285-b9291190-7663-4fbe-ab6a-ae82ea244621.png' width='250' height='100'>\
-Además, trabajo como Mentor en una academia de IT, dando soporte y acompañamiento al alumnado en proyectos académicos de Ciencia de Datos.\
+Además, soy Mentor en una academia de IT, dando soporte y acompañamiento al alumnado en proyectos académicos de Ciencia de Datos.\
 <img src='https://user-images.githubusercontent.com/103452945/235469235-3c78abd3-dfd3-4755-bcc2-192b8fdfe4b9.png' width='250' height='100'>
 
 ## Objetivos
