@@ -1,4 +1,5 @@
-# Hola! Soy Uriel Mazzucco, Científico de Datos
+# Hola! Soy Uriel Mazzucco
+## Científico de Datos radicado en Córdoba, Argentina
 ![Soy Data Science](https://user-images.githubusercontent.com/103452945/235470358-c2c0459f-15a0-4819-850f-ceaa891690ce.jpg)
 
 ## Perfil Profesional [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width= '15' height='15'>](https://www.linkedin.com/in/uriel-mazzucco-887459237/)
