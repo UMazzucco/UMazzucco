@@ -1,8 +1,8 @@
-### Hi 👋, My name is Uriel
-#### I'm a Jr Data Scientist.
+### Hola! Soy Uriel Mazzucco
+#### Científico de Datos.
 ![Soy Data Scientist Jr.](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-Recently played as a Data Engineer in an academic project, where we processed and analyzed morde than 30 million Amazon reviews and developed a recomendation algorythm.
+Actualmente trababajo como Desarrollador Qlik / Ingeniero de Datos, pero soy un entusiasta de Big Data y Machine Learning.
 
 Skills: Python / Pandas / MySQL / Spark / PowerBI
 
