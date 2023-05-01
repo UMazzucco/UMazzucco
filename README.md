@@ -2,9 +2,10 @@
 #### Científico de Datos.
 ![Soy Data Scientist Jr.](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-Actualmente trababajo como Desarrollador Qlik / Ingeniero de Datos, pero soy un entusiasta de Big Data y Machine Learning.
+Actualmente me desempeño como Desarrollador Qlik / Ingeniero de Datos, pero busco desarollarme en Big Data y Machine Learning.
+Radicado en Córdoba, Argentina.
 
-Skills: Python / Pandas / MySQL / Spark / PowerBI
+Skills: Python / Pandas / MySQL / Spark / PowerBI / Qlik
 
 
 
